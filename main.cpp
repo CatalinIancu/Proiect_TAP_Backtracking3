@@ -50,7 +50,7 @@ int main()
     cout << "Problema va afisa treptele pe care le va urca cetateanul: ";
     cout << endl;
 
-    for (int m = 2; m <= n; m++)
+    for (int m = 1; m <= n; m++)
     {
         bkt(1, m);
     }
